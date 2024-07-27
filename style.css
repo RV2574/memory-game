@@ -1,0 +1,23 @@
+
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('bg.jpg');
+    background-position: center; /* Centers the background image */
+    background-repeat: no-repeat; /* Ensures the background image does not repeat */
+
+
+}
+
+/* Styling for the #grid div */
+#grid {
+    width: 400px;  /* Set your desired width */
+    height: 300px; /* Set your desired height */
+    background-color: lightblue; /* Set your desired background color */
+    
+   
+}
+
